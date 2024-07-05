@@ -2,7 +2,7 @@
   <img src="https://media.githubusercontent.com/media/Muhd-Uwais/banner/master/banner.gif?token=BAV5XKCD7UYLRSFYNJ2BVKTGRAOZS" alt="MasterHead" height="400" width="100%">
 </a>
 <h1 align="center">Hi 👋, I'm Muhammed Uwais</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Python developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhd-uwais&label=Profile%20views&color=0e75b6&style=flat" alt="muhd-uwais" /> </p>
 
