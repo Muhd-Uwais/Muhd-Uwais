@@ -1,4 +1,4 @@
-[![MasterHead]([https://github.com/Muhd-Uwais/Muhd-Uwais/assets/137092008/05407ee9-2ea8-445e-9cf5-d7f9fadc37e2](https://media.githubusercontent.com/media/Muhd-Uwais/banner/master/banner.gif?token=BAV5XKCD7UYLRSFYNJ2BVKTGRAOZS))](https://muhd-uwais.github.io/Portfolio/)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammed Uwais</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
