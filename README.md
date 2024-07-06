@@ -1,5 +1,5 @@
 <a href="https://muhd-uwais.github.io/Portfolio/">
-  <img src="https://media.githubusercontent.com/media/Muhd-Uwais/banner/master/banner.gif?token=BAV5XKFI7SUUJHJBV7HOBQLGRAWTW" alt="MasterHead" height="350" width="100%">
+  <img src="https://media.githubusercontent.com/media/Muhd-Uwais/banner/master/banner.gif?token=BAV5XKBLS3YJBXBRRT4SODDGRDIA2" alt="MasterHead" height="350" width="100%">
 </a>
 <h1 align="center">Hi 👋, I'm Muhammed Uwais</h1>
 <h3 align="center">A passionate Python developer </h3>
