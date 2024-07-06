@@ -1,5 +1,5 @@
 <a href="https://muhd-uwais.github.io/Portfolio/">
-  <img src="https://www.google.com/imgres?q=neural%20netword%20gif%204k%20wallpaper%27&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1060%2F1*S_z-fU_sRXx9HgQvz1lSXQ.gif&imgrefurl=https%3A%2F%2Fmedium.com%2Fanalytics-vidhya%2Funderstanding-and-building-neural-networks-from-scratch-part-i-ff5a2f224347&docid=sUCd0pEQzDpwuM&tbnid=K-qOZ6e6pammnM&vet=12ahUKEwi_w6-MyJGHAxW5UGcHHXRDDZIQM3oECGgQAA..i&w=530&h=499&hcb=2&ved=2ahUKEwi_w6-MyJGHAxW5UGcHHXRDDZIQM3oECGgQAA" alt="MasterHead" height="350" width="100%">
+  <img src="https://medium.com/analytics-vidhya/understanding-and-building-neural-networks-from-scratch-part-i-ff5a2f224347" alt="MasterHead" height="350" width="100%">
 </a>
 <h1 align="center">Hi 👋, I'm Muhammed Uwais</h1>
 <h3 align="center">A passionate Python developer </h3>
