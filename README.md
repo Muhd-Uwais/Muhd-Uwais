@@ -16,8 +16,6 @@
 
 - 💬 Ask me about **Python | IoT | ESP32**
 
-- 📫 How to reach me **uwais8171@gmail.com**
-
 - ⚡ Fun fact **I am Cool**
 
 <h3 align="left">Connect with me:</h3>
