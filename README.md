@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhd-uwais&&theme=tokyonight" alt="muhd-uwais" /></p>
 
 
-[![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/github-contribution-grid-snake.svg)]
+[!(https://github.com/izam-mohammed/izam-mohammed/blob/feature/github-contribution-grid-snake.svg)]
