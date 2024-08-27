@@ -33,6 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhd-uwais&&theme=tokyonight" alt="muhd-uwais" /></p>
 
-<div align="center">
-  <img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="Snake Animation">
-</div>
+
