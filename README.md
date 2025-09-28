@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and IoT projects**
 
-- 👨‍💻 Check out my Portfolio [https://muhd-uwais.github.io/Portfolio/](https://muhd-uwais.github.io/Portfolio/)
+- 👨‍💻 Check out my [Portfolio](https://muhd-uwais.github.io/Portfolio/)
 
 - 💬 Ask me about **Python | IoT | ESP32**
 
