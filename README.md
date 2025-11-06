@@ -14,7 +14,7 @@
 
 - 👨‍💻 Check out my [Portfolio](https://muhd-uwais.github.io/Portfolio/)
 
-- 💬 Ask me about **Python | IoT | ESP32**
+- 💬 Ask me about **Python | IoT | ESP32 | ML | DL**
 
 - ⚡ Fun fact **I am Cool**
 
@@ -31,7 +31,14 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhd-uwais&show_icons=true&locale=en&theme=tokyonight" alt="muhd-uwais" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhd-uwais&&theme=tokyonight" alt="muhd-uwais" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhd-uwais&&theme=tokyonight" alt="muhd-uwais" /></p> -->
 
 
 ![](https://github.com/Muhd-Uwais/Muhd-Uwais/blob/main/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+  <b>#DPMG</b><br>
+  <sub>Discipline • Peace • Myself • Growth</sub>
+</p>
