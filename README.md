@@ -18,13 +18,13 @@
 
 - 👨‍💻 [Portfolio](https://uwais.page)
 
-- 💬 What I work with **Python, ML pipelines, automation, backend logic, APIs, and product thinking**
+- 💬 I work with **Python, ML pipelines, automation, backend logic, APIs, and product thinking**
 
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/muhd-uwais/) | [muhd.uwais51@gmail.com](mailto:muhd.uwais51@gmail.com)
 
 - 📄 Background and experience [LinkedIn profile](https://www.linkedin.com/in/muhd-uwais/)
 
-- ⚡ Operating principle **I build seriously because I know I have to earn every opportunity**
+- ⚡ Operating principle: **I build seriously because I know I have to earn every opportunity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
