@@ -1,37 +1,53 @@
 <a href="https://muhd-uwais.github.io/Portfolio/">
   <img src="https://github.com/Muhd-Uwais/Pong/blob/master/brain_gid_image.gif?raw=true" alt="MasterHead" height="430" width="100%">
 </a>
-<h1 align="center">Hi 👋, I'm Muhammed Uwais</h1>
-<h3 align="center">A passionate Python developer </h3>
+
+<h1 align="center">I'm Muhd Uwais</h1>
+
+<h3 align="center">I build developer-grade AI tools that solve real problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhd-uwais&label=Profile%20views&color=0e75b6&style=flat" alt="muhd-uwais" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 Building now [ziv](https://github.com/Muhd-Uwais/ziv) — a local-first semantic code search engine
 
-- 🌱 I’m currently learning **Machine Learning | Deep Learning | NLP | Electornics | ESP32**
+- 🌱 Actively improving in **Optimizing embedding pipelines, improving retrieval accuracy, and reducing inference latency in local-first systems**
 
-- 👯 I’m looking to collaborate on **Machine Learning and IoT projects**
+- 👯 Open to building with others on **Applied machine learning, Python automation, backend systems and useful AI tools**
 
-- 👨‍💻 Check out my [Portfolio](https://muhd-uwais.github.io/Portfolio/)
+- 🤝 Looking for feedback on [ziv](https://github.com/Muhd-Uwais/ziv)’s product direction, ML workflow, system design, and execution quality
 
-- 💬 Ask me about **Python | IoT | ESP32 | ML | DL**
+- 👨‍💻 [Portfolio](https://uwais.page)
 
-- ⚡ Fun fact **I am Cool**
+- 💬 What I work with **Python, ML pipelines, automation, backend logic, APIs, and product thinking**
+
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/muhd-uwais/) | [muhd.uwais51@gmail.com](mailto:muhd.uwais51@gmail.com)
+
+- 📄 Background and experience [LinkedIn profile](https://www.linkedin.com/in/muhd-uwais/)
+
+- ⚡ Operating principle **I build seriously because I know I have to earn every opportunity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muhd-uwais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhd-uwais" height="20" width="30" /></a>
-<a href="https://instagram.com/_.uwais_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.uwais_" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhd-uwais/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhd-uwais/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhd-uwais&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhd-uwais" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhd-uwais&show_icons=true&locale=en&theme=tokyonight" alt="muhd-uwais" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhd-uwais&&theme=tokyonight" alt="muhd-uwais" /></p> -->
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></td>
+    <td style="border: none;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></td> 
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></td>
+  </tr>
+</table>
 
 
 ![](https://github.com/Muhd-Uwais/Muhd-Uwais/blob/main/github-contribution-grid-snake.svg)
